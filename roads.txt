@@ -1,0 +1,7 @@
+5
+Vilnius Kaunas 10
+Klaipeda Kaunas 8
+Klaipeda Marijampole 1
+Kaunas Marijampole 1
+Kaunas Vievis 3
+Vievis Vilnius 3
